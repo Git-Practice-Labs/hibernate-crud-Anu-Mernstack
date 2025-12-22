@@ -24,7 +24,7 @@ package com.demo.main;
 	        // UPDATE
 	       // updateStudent(2, "Anu");
 
-	        // Write Separate StudentDelete.java file
+	        // Write code to delete a student in Separate StudentDelete.java file
 	       // deleteStudent(2);
 	    }
 
